@@ -6,15 +6,15 @@ A website made specifically for students at Purdue University to track their gra
 #  
 # Project timeline:
 #  
-✓ 1. Create git repo 
-2. Code the needed logic and math equations in Java
-3. Make sure there’s a text interface that can be tested and function properly in Java before moving over to the web design
-4. Form a basic skeleton using HTML and a little CSS
-5. Implement Java code into JavaScript and test if everything works
-6. Add more CSS to make the website look presentable
-7. Get some other students to test the website on their own to see if it works for them
-8. Implement a database to store larger data if needed 
-9. Apply any finishing touches
+- ✓ 1. Create git repo 
+- 2. Code the needed logic and math equations in Java
+- 3. Make sure there’s a text interface that can be tested and function properly in Java before moving over to the web design
+- 4. Form a basic skeleton using HTML and a little CSS
+- 5. Implement Java code into JavaScript and test if everything works
+- 6. Add more CSS to make the website look presentable
+- 7. Get some other students to test the website on their own to see if it works for them
+- 8. Implement a database to store larger data if needed 
+- 9. Apply any finishing touches
 #  
 # MVP Scope: 
 - Working code that uses real-time math equations to calculate the student's grade
